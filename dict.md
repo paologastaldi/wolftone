@@ -6,6 +6,13 @@
 
 ---
 
+## Material
+
+- rosewood: palissandro
+- spruce: abete
+
+---
+
 ## Instrument parts
 
 - bass-bar: catena
