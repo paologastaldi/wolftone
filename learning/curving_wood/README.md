@@ -26,3 +26,7 @@ First extremity fixed with glue and 2 nail. I made a small hole with a drill pre
 ![](./imgs/curving_wood_2.jpg)
 
 Closing the wooden board on the structure and spreading glue.
+
+![](./imgs/curving_wood_3.jpg)
+
+![](./imgs/curving_wood_4.jpg)
