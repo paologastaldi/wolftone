@@ -19,6 +19,10 @@ I want to curve a wooden board over a previously built structure.
 
 ## Images
 
-![](../../imgs/stompbox/curving_wood_1.jpg)
+![](./imgs/curving_wood_1.jpg)
 
 First extremity fixed with glue and 2 nail. I made a small hole with a drill press before driving nails.
+
+![](./imgs/curving_wood_2.jpg)
+
+Closing the wooden board on the structure and spreading glue.
